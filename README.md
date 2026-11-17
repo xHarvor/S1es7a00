@@ -36,7 +36,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales en el **Tecnológico N
 
 ## 🛠️ Proyectos Destacados
 
-* **Vorare (anteriormente EcoHawk):** Desarrollo de una estación de carga inteligente. El proyecto abarca desde el ensamblaje del hardware con ESP32 y sensores de monitoreo de energía, hasta la codificación del firmware.
+* ** EcoHawk:** Desarrollo de una estación de carga inteligente. El proyecto abarca desde el ensamblaje del hardware con ESP32 y sensores de monitoreo de energía, hasta la codificación del firmware.
 * **Desarrollo Web Client-Side:** Creación y gestión de portafolios web profesionales.
 
 ## 🎮 Más allá del código...
